@@ -1,4 +1,5 @@
-# Pi Apps for Python ([view on GitHub](https://github.com/captain-toad/pi-apps-python))
+# Pi Apps for Python 
+### [View on GitHub](https://github.com/captain-toad/pi-apps-python)
 
 Pi Apps for Python is a front end for pi-apps (which can be found at [Botspot's GitHub repo](https://github.com/botspot/pi-apps))
 
