@@ -1,4 +1,4 @@
-## Pi Apps for Python
+# Pi Apps for Python
 
 Pi Apps for Python is a front end for pi-apps (which can be found at Botspot's GitHub repo.)
 
@@ -8,7 +8,7 @@ The main reason I am making this is because I love Pi Apps, but I am slightly ir
 
 I will be heavily relying on the os module to run install/update scripts and get the contents of directories.
 
-##Installation
+## Installation
 
 Installation for Pi Apps for Python is simple. I spent about an hour writing a fancy bash script to install PAFP. Clone the repo with:
 
@@ -32,7 +32,7 @@ If you want to do all of that in one command, try:
 
 Just let everything install, and you're good to go!
 
-##Versions
+## Versions
 
 Pi Apps for Python is still in VERY early development. I started it today (Mar 19) and all I have done is written a basic title and window in the GUI, and an install script. I'll describe this development phase as `pre-prototype`.
 
