@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pi Apps for Python
 
 You can use the [editor on GitHub](https://github.com/Captain-Toad/pi-apps-python.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
